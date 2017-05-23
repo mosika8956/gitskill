@@ -1,3 +1,3 @@
 # gitskill
 sjlkgjlsgj
-maybe has a conflict
+ conflict has been solved
